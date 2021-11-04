@@ -2,7 +2,7 @@
        
        👀  Aspirante a Desenvolvedora Front-end.
        
-       🌱 Atualmente, estou aprendendo TypeScript e React Js.
+       🌱 Atualmente, estou aprendendo React Js.
 
        📫 islainemotaoliveira@gmail.com
 
